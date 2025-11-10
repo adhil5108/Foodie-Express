@@ -5,7 +5,7 @@
         
       
         <div>
-          <h2 className="text-xl font-bold text-brand mb-3">TastyBite</h2>
+          <h2 className="text-xl font-bold text-brand mb-3">Foodie-Express</h2>
           <p className="text-sm text-gray-600 leading-relaxed">
             Serving happiness, one bite at a time   
             Explore our wide range of dishes and savor every flavor!
