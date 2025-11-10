@@ -70,7 +70,7 @@ export default function Home(){
           <div>
             <h2 className="text-3xl font-bold mb-4 text-brand">About Us</h2>
             <p className="text-slate-600 leading-relaxed mb-4">
-              Welcome to <span className="font-semibold text-brand">TastyBite</span> — where every meal tells a story!  
+              Welcome to <span className="font-semibold text-brand">Foodie-Express</span> — where every meal tells a story!  
               We’re passionate about bringing delicious food from your favorite restaurants right to your doorstep.
             </p>
             <p className="text-slate-600 leading-relaxed mb-4">
