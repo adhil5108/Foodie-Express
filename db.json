@@ -1,0 +1,205 @@
+{
+  "users": [
+    {
+      "id": "1762761322965",
+      "name": "demo user",
+      "email": "demo@gmail.com",
+      "password": "1234",
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": "p1",
+      "title": "Cheesy Pizza",
+      "price": 299,
+      "category": "pizza",
+      "img": "https://plus.unsplash.com/premium_photo-1722945691819-e58990e7fb27?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZnJlZSUyMGltYWdlcyUyMG9mJTIwQ2hlZXN5JTIwUGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+      "description": "A classic favorite loaded with gooey mozzarella and cheddar cheese on a golden crust — pure cheesy bliss!"
+    },
+    {
+      "id": "b1",
+      "title": "Loaded Burger",
+      "price": 199,
+      "category": "burger",
+      "img": "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=800&auto=format&fit=crop",
+      "description": "Juicy beef patty stacked high with melted cheese, crispy lettuce, and tangy sauce — the ultimate hunger crusher!"
+    },
+    {
+      "id": "by1",
+      "title": "Spicy Biryani",
+      "price": 249,
+      "category": "biryani",
+      "img": "https://static.vecteezy.com/system/resources/thumbnails/040/703/949/small/ai-generated-royal-feast-master-the-art-of-chicken-biryani-at-home-generative-ai-photo.jpg",
+      "description": "Aromatic basmati rice cooked with tender chicken and fiery spices — every bite bursts with flavor."
+    },
+    {
+      "id": "f1",
+      "title": "French Fries",
+      "price": 129,
+      "category": "sides",
+      "img": "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?q=80&w=800&auto=format&fit=crop",
+      "description": "Crispy golden fries sprinkled with salt — the perfect crunchy sidekick to any meal."
+    },
+    {
+      "id": "s1",
+      "title": "Sushi Platter",
+      "price": 459,
+      "category": "sushi",
+      "img": "https://images.unsplash.com/photo-1553621042-f6e147245754?q=80&w=800&auto=format&fit=crop",
+      "description": "An elegant assortment of fresh sushi rolls with delicate fish, rice, and seaweed perfection."
+    },
+    {
+      "id": "p5",
+      "title": "BBQ Chicken Pizza",
+      "price": 339,
+      "category": "pizza",
+      "img": "https://images.unsplash.com/photo-1628840042765-356cda07504e?q=80&w=800&auto=format&fit=crop",
+      "description": "Smoky BBQ chicken, onions, and cheese melted on a crispy crust — a bold twist on the classic."
+    },
+    {
+      "id": "p6",
+      "title": "Four Cheese Pizza",
+      "price": 349,
+      "category": "pizza",
+      "img": "https://media.istockphoto.com/id/1337317100/photo/pizza-quattro-formaggi-on-a-black-background-pizza-four-cheeses.jpg?s=612x612&w=0&k=20&c=LYZZEnbpw7oFtoXpABbFr-77Qcub9xcPADdx-HgvTG8=",
+      "description": "A heavenly blend of mozzarella, cheddar, parmesan, and blue cheese — creamy, rich, and irresistible."
+    },
+    {
+      "id": "p7",
+      "title": "Peri Peri Chicken Pizza",
+      "price": 359,
+      "category": "pizza",
+      "img": "https://images.unsplash.com/photo-1628840042765-356cda07504e?q=80&w=800&auto=format&fit=crop",
+      "description": "Fiery peri peri chicken layered with melted cheese and spicy sauce — perfect for heat lovers!"
+    },
+    {
+      "id": "b5",
+      "title": "Zinger Burger",
+      "price": 239,
+      "category": "burger",
+      "img": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?q=80&w=800&auto=format&fit=crop",
+      "description": "Crispy fried chicken fillet with creamy mayo and lettuce — crunchy, juicy, and unforgettable."
+    },
+    {
+      "id": "b6",
+      "title": "Mushroom Swiss Burger",
+      "price": 249,
+      "category": "burger",
+      "img": "https://media.istockphoto.com/id/973095652/photo/burger-hamburger-or-cheeseburger-served-with-french-fries-pickles-and-onion.jpg?s=612x612&w=0&k=20&c=iF8hYmsIwKGXw8ZSQ6W4U7w897vPbN3UZENK-lgdsDw=",
+      "description": "Savory grilled mushrooms and Swiss cheese on a juicy patty — a rich, earthy delight."
+    },
+    {
+      "id": "b7",
+      "title": "Veggie Supreme Burger",
+      "price": 199,
+      "category": "burger",
+      "img": "https://images.unsplash.com/photo-1606755962773-d324e0a13086?q=80&w=800&auto=format&fit=crop",
+      "description": "Loaded with fresh veggies, cheese, and zesty sauce — a wholesome treat for vegetarians."
+    },
+    {
+      "id": "b8",
+      "title": "Bacon Beef Burger",
+      "price": 279,
+      "category": "burger",
+      "img": "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=800&auto=format&fit=crop",
+      "description": "Thick beef patty topped with crispy bacon and smoky cheese — a carnivore’s dream come true."
+    },
+    {
+      "id": "by5",
+      "title": "Mutton Biryani",
+      "price": 299,
+      "category": "biryani",
+      "img": "https://media.istockphoto.com/id/1328536877/photo/delicious-mutton-biryani-served-in-black-pot-with-raita-kolkata-style-dum-biryani-with-mutton.jpg?s=612x612&w=0&k=20&c=MSQMxoD2AkH36lA1M1oIwWYKQk3jdJ8xxGaFgL2MyQY=",
+      "description": "Slow-cooked mutton and fragrant rice infused with rich spices — the king of biryanis."
+    },
+    {
+      "id": "by6",
+      "title": "Malabar Chicken Biryani",
+      "price": 269,
+      "category": "biryani",
+      "img": "https://media.istockphoto.com/id/1333127664/photo/chicken-biryani-spicy-indian-malabar-biryani-hyderabadi-biryani-dum-biriyani-pulao-golden.jpg?s=612x612&w=0&k=20&c=hUehFr7fmpphtrg6R8B9MY33I79CWRqKQPsFXn1WqH4=",
+      "description": "Authentic Kerala-style biryani with tender chicken and ghee-roasted spices — aromatic and flavorful."
+    },
+    {
+      "id": "by7",
+      "title": "Veg Biryani",
+      "price": 219,
+      "category": "biryani",
+      "img": "https://media.istockphoto.com/id/1334570485/photo/vegetable-biryani-biriyani-hyderabadi-shahi-pulao-and-raita-pilaf-basmati-rice.jpg?s=612x612&w=0&k=20&c=OWFT8KpvZZXSAjqtBfuji-Pj9OHe51icTXrBjk1s0Zo=",
+      "description": "Fragrant basmati rice with fresh vegetables and mild spices — light, flavorful, and satisfying."
+    },
+    {
+      "id": "s4",
+      "title": "Dragon Roll",
+      "price": 479,
+      "category": "sushi",
+      "img": "https://media.istockphoto.com/id/506104054/photo/green-dragon-sushi-roll-with-eel-avocado-cucumber-wasabi-and.jpg?s=612x612&w=0&k=20&c=qV01f0tOqXZ9-Q29dIu-xfoMu5fCkGAa17B7nV7La_A=",
+      "description": "Avocado-topped eel and cucumber roll that delivers a smoky, creamy, and fresh flavor punch."
+    },
+    {
+      "id": "s5",
+      "title": "Salmon Roll",
+      "price": 459,
+      "category": "sushi",
+      "img": "https://media.istockphoto.com/id/183061687/photo/salmon-roll.jpg?s=612x612&w=0&k=20&c=-5w9_4qFYoL1IUswik5xFcFdUPP4NlbW9TdmJHklwYU=",
+      "description": "Fresh salmon with sticky rice and seaweed — simple, elegant, and melt-in-your-mouth good."
+    },
+    {
+      "id": "f5",
+      "title": "Mozzarella Sticks",
+      "price": 139,
+      "category": "sides",
+      "img": "https://media.istockphoto.com/id/1315418985/photo/mozzarella-sticks.jpg?s=612x612&w=0&k=20&c=uM3OdjYu1jGSXj8DrUXpo9zNM0RuNd4i0NMlw8SWrRA=",
+      "description": "Crispy on the outside, gooey on the inside — these mozzarella sticks are cheese perfection."
+    },
+    {
+      "id": "f6",
+      "title": "Tacos Trio",
+      "price": 179,
+      "category": "sides",
+      "img": "https://media.istockphoto.com/id/638951176/photo/mexican-street-tacos-flat-lay-composition.jpg?s=612x612&w=0&k=20&c=a6_AxL4_gva5qeep71NTbV9M4BGGYwitpW0ByQRtC_U=",
+      "description": "Three tacos filled with your choice of meat or veggies — fresh, zesty, and packed with flavor."
+    },
+    {
+      "id": "f7",
+      "title": "Grilled Corn",
+      "price": 99,
+      "category": "sides",
+      "img": "https://media.istockphoto.com/id/2148813188/photo/grilled-corn-cob-with-herbs-and-cheese-corn-on-the-cob-corn-sweet-yellow-corn-fresh-corn-with.jpg?s=612x612&w=0&k=20&c=iHeceb9gdKh2FQe3utLBeTOaiSPcBMVuVUwG6Q0thNY=",
+      "description": "Char-grilled corn brushed with butter and herbs — smoky, juicy, and full of flavor."
+    },
+    {
+      "id": "d3",
+      "title": "Lemon Mojito",
+      "price": 129,
+      "category": "drinks",
+      "img": "https://media.istockphoto.com/id/1250502618/photo/two-glasses-with-iced-green-matcha-tea-with-lime-ice-fresh-mint-and-metal-drinking-straws-on.jpg?s=612x612&w=0&k=20&c=4RKWJa-9C1zqACXRq025hP3ikzsp8OPM9V9sk1ILcjI=",
+      "description": "Refreshing mint, lemon, and soda blend — the perfect cool-down drink on any hot day."
+    },
+    {
+      "id": "d4",
+      "title": "Mango Smoothie",
+      "price": 149,
+      "category": "drinks",
+      "img": "https://media.istockphoto.com/id/1150000171/photo/mango-smoothie-in-a-bottle-with-slices-of-mango-fruit.jpg?s=612x612&w=0&k=20&c=p1R497U-zaSDICs6wNOjS7AoWdMAzmtzb7h9CdKcWBc=",
+      "description": "Sweet ripe mangoes blended into a creamy, tropical smoothie — sunshine in a glass."
+    },
+    {
+      "id": "ds4",
+      "title": "Oreo Milkshake",
+      "price": 169,
+      "category": "desserts",
+      "img": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?q=80&w=800&auto=format&fit=crop",
+      "description": "A creamy shake loaded with crushed Oreos — chocolatey, thick, and totally irresistible."
+    },
+    {
+      "id": "ds5",
+      "title": "Blueberry Cheesecake",
+      "price": 239,
+      "category": "desserts",
+      "img": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=80&w=800&auto=format&fit=crop",
+      "description": "Smooth cheesecake topped with a rich blueberry compote — sweet, tangy, and melt-in-your-mouth."
+    }
+  ]
+}
