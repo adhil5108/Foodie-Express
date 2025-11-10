@@ -14,7 +14,7 @@ export default function Cart(){
       const r = await fetch(`${API}/users/${user.id}`)
       const u = await r.json()
       setItems(u.cart || [])
-    }catch{ /* ignore */ }
+    }catch{ }
   }
 
   useEffect(()=>{ load() },[])

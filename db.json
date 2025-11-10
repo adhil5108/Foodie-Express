@@ -5,7 +5,22 @@
       "name": "demo user",
       "email": "demo@gmail.com",
       "password": "1234",
-      "cart": []
+      "cart": [
+        {
+          "id": "b1",
+          "title": "Loaded Burger",
+          "price": 199,
+          "img": "https://images.unsplash.com/photo-1550547660-d9450f859349?q=80&w=800&auto=format&fit=crop",
+          "qty": 1
+        },
+        {
+          "id": "p1",
+          "title": "Cheesy Pizza",
+          "price": 299,
+          "img": "https://plus.unsplash.com/premium_photo-1722945691819-e58990e7fb27?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8ZnJlZSUyMGltYWdlcyUyMG9mJTIwQ2hlZXN5JTIwUGl6emF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=600",
+          "qty": 1
+        }
+      ]
     }
   ],
   "products": [

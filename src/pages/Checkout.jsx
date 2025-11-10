@@ -37,7 +37,7 @@ export default function Checkout(){
   </div>
 
   <div className="grid md:grid-cols-[2fr,1fr] gap-10">
-    {/* Checkout Form */}
+    
     <form
       onSubmit={placeOrder}
       className="bg-white border border-slate-200 rounded-3xl shadow-xl p-8 space-y-6"
@@ -87,7 +87,7 @@ export default function Checkout(){
       </button>
     </form>
 
-    {/* Summary Section */}
+   
     <aside className="bg-gradient-to-br from-white to-slate-50 border border-slate-200 rounded-3xl shadow-md p-6 h-fit sticky top-20">
       <h2 className="text-xl font-semibold text-slate-800 mb-4 border-b pb-2">
         Order Summary
