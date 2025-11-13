@@ -54,12 +54,10 @@ export default function Navbar() {
   return (
     <header className="sticky top-0 z-50 bg-white/80 backdrop-blur border-b">
       <div className="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
-        {/* Logo */}
         <Link to="/" className="font-extrabold text-xl text-brand flex-shrink-0">
           Foodie<span className="text-slate-900">Express</span>
         </Link>
 
-        {/* Mobile Menu Button */}
         <button
           onClick={() => setMenuOpen(!menuOpen)}
           className="sm:hidden p-2 rounded-md border border-slate-300"
@@ -67,7 +65,6 @@ export default function Navbar() {
           ☰
         </button>
 
-        {/* Navigation Links */}
         <nav
           className={`flex-col sm:flex-row sm:flex items-center gap-4 absolute sm:static top-[64px] left-0 w-full sm:w-auto bg-white sm:bg-transparent p-4 sm:p-0 border-t sm:border-none transition-all duration-300 ${
             menuOpen ? 'flex' : 'hidden sm:flex'
